@@ -1,1 +1,1 @@
-# C_program_project
+This repository contains c program projects that I have developed.
